@@ -1,1 +1,1 @@
-# MachineLearning_Lab
+# Parkinson Disease Detection using MachineLearning Techniques
